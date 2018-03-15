@@ -1,0 +1,5 @@
+D:\private\project\Dapper教程\DapperFn4.0\DapperFn4.0\bin\Debug\DapperFn4.0.exe.config
+D:\private\project\Dapper教程\DapperFn4.0\DapperFn4.0\bin\Debug\DapperFn4.0.exe
+D:\private\project\Dapper教程\DapperFn4.0\DapperFn4.0\bin\Debug\DapperFn4.0.pdb
+D:\private\project\Dapper教程\DapperFn4.0\DapperFn4.0\obj\Debug\DapperFn4.0.exe
+D:\private\project\Dapper教程\DapperFn4.0\DapperFn4.0\obj\Debug\DapperFn4.0.pdb

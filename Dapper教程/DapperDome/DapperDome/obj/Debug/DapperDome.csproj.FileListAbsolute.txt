@@ -1,0 +1,17 @@
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\DapperDome.exe.config
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\DapperDome.exe
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\DapperDome.pdb
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\BLL.dll
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\DAL.dll
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\Model.dll
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\Dapper.dll
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\BLL.pdb
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\DAL.pdb
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\Model.pdb
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\bin\Debug\Dapper.xml
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\obj\Debug\DapperDome.csprojResolveAssemblyReference.cache
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\obj\Debug\DapperDome.exe
+E:\BakProjects\Dapper教程\DapperDome\DapperDome\obj\Debug\DapperDome.pdb
+D:\private\project\Dapper教程\DapperDome\DapperDome\bin\Debug\DapperDome.exe.config
+D:\private\project\Dapper教程\DapperDome\DapperDome\obj\Debug\DapperDome.exe
+D:\private\project\Dapper教程\DapperDome\DapperDome\obj\Debug\DapperDome.pdb

@@ -1,0 +1,9 @@
+E:\BakProjects\Dapper教程\DapperDome\DAL\bin\Debug\DAL.dll
+E:\BakProjects\Dapper教程\DapperDome\DAL\bin\Debug\DAL.pdb
+E:\BakProjects\Dapper教程\DapperDome\DAL\bin\Debug\Dapper.dll
+E:\BakProjects\Dapper教程\DapperDome\DAL\bin\Debug\Model.dll
+E:\BakProjects\Dapper教程\DapperDome\DAL\bin\Debug\Model.pdb
+E:\BakProjects\Dapper教程\DapperDome\DAL\bin\Debug\Dapper.xml
+E:\BakProjects\Dapper教程\DapperDome\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\BakProjects\Dapper教程\DapperDome\DAL\obj\Debug\DAL.dll
+E:\BakProjects\Dapper教程\DapperDome\DAL\obj\Debug\DAL.pdb

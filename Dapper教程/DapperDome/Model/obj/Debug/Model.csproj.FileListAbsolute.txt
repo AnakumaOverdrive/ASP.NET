@@ -1,0 +1,5 @@
+E:\BakProjects\Dapper教程\DapperDome\Model\bin\Debug\Model.dll
+E:\BakProjects\Dapper教程\DapperDome\Model\bin\Debug\Model.pdb
+E:\BakProjects\Dapper教程\DapperDome\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\BakProjects\Dapper教程\DapperDome\Model\obj\Debug\Model.dll
+E:\BakProjects\Dapper教程\DapperDome\Model\obj\Debug\Model.pdb
