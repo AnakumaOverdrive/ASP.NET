@@ -1,0 +1,10 @@
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\bin\Debug\Dome1.exe.config
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\bin\Debug\Dome1.exe
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\bin\Debug\Dome1.pdb
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\bin\Debug\Autofac.dll
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\bin\Debug\Server.dll
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\bin\Debug\Server.pdb
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\bin\Debug\Autofac.xml
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\obj\Debug\Dome1.csprojResolveAssemblyReference.cache
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\obj\Debug\Dome1.exe
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Dome1\obj\Debug\Dome1.pdb

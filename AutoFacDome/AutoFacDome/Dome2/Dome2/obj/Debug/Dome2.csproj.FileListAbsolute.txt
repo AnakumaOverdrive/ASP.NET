@@ -1,0 +1,11 @@
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\bin\Debug\Dome2.exe.config
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\bin\Debug\Dome2.exe
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\bin\Debug\Dome2.pdb
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\bin\Debug\Autofac.dll
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\bin\Debug\Autofac.xml
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\obj\Debug\Dome2.csprojResolveAssemblyReference.cache
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\obj\Debug\Dome2.exe
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome2\Dome2\obj\Debug\Dome2.pdb
+E:\BakProjects\AutoFac\AutoFacDome\Dome2\Dome2\bin\Debug\Dome2.exe.config
+E:\BakProjects\AutoFac\AutoFacDome\Dome2\Dome2\obj\Debug\Dome2.exe
+E:\BakProjects\AutoFac\AutoFacDome\Dome2\Dome2\obj\Debug\Dome2.pdb

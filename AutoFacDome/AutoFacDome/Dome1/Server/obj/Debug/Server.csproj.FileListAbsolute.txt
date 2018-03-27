@@ -1,0 +1,5 @@
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Server\bin\Debug\Server.dll
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Server\bin\Debug\Server.pdb
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Server\obj\Debug\Server.dll
+D:\OA系统交接资料\nopCommerce\AutoFacDome\Dome1\Server\obj\Debug\Server.pdb

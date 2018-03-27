@@ -1,0 +1,9 @@
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\bin\Debug\BLL.dll
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\bin\Debug\BLL.pdb
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\bin\Debug\IDAL.dll
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\bin\Debug\Model.dll
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\bin\Debug\IDAL.pdb
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\bin\Debug\Model.pdb
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\obj\Debug\BLL.dll
+E:\BakProjects\AutoFac\AutoFac-Dapper\BLL\obj\Debug\BLL.pdb

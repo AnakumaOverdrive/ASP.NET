@@ -1,0 +1,5 @@
+E:\新建文件夹\2012\3爱\Orchard\AutofacTest\AutofacTest.Lib\bin\Debug\AutofacTest.Lib.dll
+E:\新建文件夹\2012\3爱\Orchard\AutofacTest\AutofacTest.Lib\bin\Debug\AutofacTest.Lib.pdb
+E:\新建文件夹\2012\3爱\Orchard\AutofacTest\AutofacTest.Lib\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\2012\3爱\Orchard\AutofacTest\AutofacTest.Lib\obj\Debug\AutofacTest.Lib.dll
+E:\新建文件夹\2012\3爱\Orchard\AutofacTest\AutofacTest.Lib\obj\Debug\AutofacTest.Lib.pdb

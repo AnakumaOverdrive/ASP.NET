@@ -1,0 +1,5 @@
+E:\BakProjects\AutoFac\AutoFac-Dapper\Model\bin\Debug\Model.dll
+E:\BakProjects\AutoFac\AutoFac-Dapper\Model\bin\Debug\Model.pdb
+E:\BakProjects\AutoFac\AutoFac-Dapper\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\BakProjects\AutoFac\AutoFac-Dapper\Model\obj\Debug\Model.dll
+E:\BakProjects\AutoFac\AutoFac-Dapper\Model\obj\Debug\Model.pdb

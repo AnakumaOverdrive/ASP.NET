@@ -1,0 +1,9 @@
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\obj\x86\Debug\ProgressBarDome.MainForm.resources
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\obj\x86\Debug\ProgressBarDome.Properties.Resources.resources
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\obj\x86\Debug\ProgressBarDome.WinProgressBar.resources
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\obj\x86\Debug\ProgressBarDome.csproj.GenerateResource.Cache
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\bin\Debug\ProgressBarDome.exe
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\bin\Debug\ProgressBarDome.pdb
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\obj\x86\Debug\ProgressBarDome.exe
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\obj\x86\Debug\ProgressBarDome.pdb
+D:\private\project\WinForm进度条\ProgressBarDome\ProgressBarDome\obj\x86\Debug\ProgressBarDome.BackgroundWorkerForm.resources

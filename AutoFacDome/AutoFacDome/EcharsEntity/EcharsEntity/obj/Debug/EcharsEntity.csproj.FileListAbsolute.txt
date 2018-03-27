@@ -1,0 +1,9 @@
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\bin\Debug\EcharsEntity.exe.config
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\bin\Debug\EcharsEntity.exe
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\bin\Debug\EcharsEntity.pdb
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\bin\Debug\Model.dll
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\bin\Debug\Newtonsoft.Json.dll
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\bin\Debug\Model.pdb
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\obj\Debug\EcharsEntity.csprojResolveAssemblyReference.cache
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\obj\Debug\EcharsEntity.exe
+D:\OA系统交接资料\nopCommerce\AutoFacDome\EcharsEntity\EcharsEntity\obj\Debug\EcharsEntity.pdb
