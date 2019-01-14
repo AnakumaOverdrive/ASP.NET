@@ -1,0 +1,15 @@
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\DapperExtensionDemo.pdb
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\Dapper.dll
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\MySql.Data.dll
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\nunit.framework.dll
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\Dapper.xml
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\nunit.framework.pdb
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\nunit.framework.xml
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\obj\Debug\DapperExtensionDemo.csprojResolveAssemblyReference.cache
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\obj\Debug\DapperExtensionDemo.csproj.CoreCompileInputs.cache
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\obj\Debug\DapperExtensionDemo.pdb
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\DapperExtensionDemo.exe.config
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\DapperExtensionDemo.exe
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\obj\Debug\DapperExtensionDemo.exe
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\Dapper.Contrib.dll
+D:\private\Git-Python\ASP.NET\Dapper教程\DapperExtensionDemo\DapperExtensionDemo\bin\Debug\Dapper.Contrib.xml

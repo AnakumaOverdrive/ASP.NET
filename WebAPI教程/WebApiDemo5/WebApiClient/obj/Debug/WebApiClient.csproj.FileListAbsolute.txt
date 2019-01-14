@@ -1,0 +1,11 @@
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\WebApiClient.exe.config
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\WebApiClient.exe
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\WebApiClient.pdb
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\System.Net.Http.Formatting.dll
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\System.Net.Http.Formatting.xml
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\obj\Debug\WebApiClient.csprojResolveAssemblyReference.cache
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\obj\Debug\WebApiClient.exe
+E:\BakProjects\WebAPI教程\WebApiDemo5\WebApiClient\obj\Debug\WebApiClient.pdb

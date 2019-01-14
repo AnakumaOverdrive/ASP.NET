@@ -1,0 +1,33 @@
+﻿@model WebApiDome4.Models.ApiModel 
+@{ 
+    ViewBag.Title = "API Help"; 
+} 
+@section Scripts 
+{ 
+    @Scripts.Render("~/bundles/jqueryui") 
+    <script type="text/javascript"> 
+        // Apply jQuery accordion widget.
+        // 运用jQuery的可折叠部件
+        $(function () { $(".accordion").accordion(); }); 
+        </script> 
+} 
+<div id="body" class="content-wrapper"> 
+<h2>API Help</h2> 
+@foreach (var group in Model.GetApis()) 
+{ 
+    <h3>@group.Key</h3> 
+    <div class="accordion"> 
+    @foreach (var api in group) 
+    { 
+        <h4><a href="#">@api.HttpMethod @api.RelativePath</a></h4> 
+
+        <div> <p>@api.Documentation</p> 
+        @foreach (var param in api.ParameterDescriptions) 
+        { 
+            <p>Parameter: <em>@param.Name</em> (@param.Source): @param.Documentation</p> 
+        } 
+        </div> 
+    } 
+    </div> 
+} 
+</div>
