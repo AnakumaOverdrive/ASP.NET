@@ -1,0 +1,447 @@
+body {
+	font-family:verdana;
+	font-size:12px;
+	margin:0;
+	line-height:150%;
+	background-image:url(images/bj1.jpg);
+	background-color:#eff5fc;
+	background-repeat:repeat-x;
+	background-position:top;
+}
+*{
+	 padding:0;
+	margin:0;
+}
+#footbj{
+	 margin:0;
+	background-image:url(images/bj2.jpg);
+	background-repeat:repeat-x;
+	background-position:bottom;
+}
+#container {
+	margin:0 auto;
+	width:990px;
+	background:#eff5fb;
+}
+#header {
+	 height:205px;
+	margin:0;
+}
+#menu {
+	 font-size:14px;
+	height:32px;
+	margin:0;
+	background-image:url(images/topbj.jpg);
+	background-repeat:repeat-x;
+}
+#nav li {
+	 float:left;
+	list-style-type:none;
+}
+#nav li a {
+	color:#ffffff;
+	text-decoration:none;
+	padding-top:8px;
+	display:block;
+	width:110px;
+	height:22px;
+	text-align:center;
+	margin-left:2px;
+	text-align:center;
+	font-family:"norma 13px verdana", arial, helvetica, sans-serif;
+	font-weight:bold;
+	background-image:url(images/1.jpg);
+	background-repeat:no-repeat;
+	background-position:right center;
+}
+#Search {
+	width:720px;
+	background-image:url(images/bnt.jpg);
+	height:33px;
+	margin-top:3px;
+	margin-left:10px;
+	padding-top:5px;
+	padding-left:10px;
+	background-image:url(images/ss.jpg);
+	background-repeat:repeat-x;
+	border:1px solid #f7d5ba;
+}
+input,select,Textarea {
+	border-left:1px solid #999999;
+	border-right:1px solid #999999;
+	border-top:1px solid #999999;
+	border-bottom:1px solid #999999;
+	overflow:hidden;
+	background:#ffffff;
+	height:20;
+}
+.button {
+	text-align:center;
+	background-image:url(images/bnt.jpg);
+	width:58px;
+	height:23px;
+}
+.button1 {
+	text-align:center;
+	background-image:url(images/bnt2.jpg);
+	width:58px;
+	height:23px;
+}
+#sidebar {
+	 float:right;
+	width:231px;
+	height:500px;
+	margin-top:3px;
+	margin-right:10px;
+	background-image:url(images/rightbj.jpg);
+}
+#sidebar1 {
+	float:left;
+	width:234px;
+	margin-top:3px;
+	margin-left:10px;
+}
+#sidebar1 div{
+	width:234px;
+	height:155px;
+	margin-top:4px;
+	font-size:12px;
+	color:#000000;
+	background-color:#f6f6f6;
+	border-top-width:1px;
+	border-right-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-top-color:#dddddd;
+	border-right-color:#dddddd;
+	border-bottom-color:#dddddd;
+	border-left-color:#dddddd;
+}
+#sidebar1 div a{
+	display:block;
+	height:33px;
+	width:231px;
+	line-height:2;
+	text-align:center;
+	color:#343434;
+	font-size:12px;
+	font-weight:normal;
+	text-decoration:none;
+	padding-top:3px;
+	background-image:url(images/dhbj.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+#sidebar1 div a:hover{
+	background-image:url(images/dhbj1.jpg);
+	background-repeat:no-repeat;
+	background-position:0px;
+}
+#sidebar2 {
+	float:left;
+	width:231px;
+	margin-top:3px;
+	margin-left:10px;
+	height:500px;
+	background-image:url(images/rightbj.jpg);
+}
+#spanaa {
+    display:block;
+	height:30px;
+	text-indent:45mm;
+	padding-top:20px;
+	background-image:url(images/tztb.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+#spanaa1 {
+	display:block;
+	height:190px;
+	background-image:url(images/4.jpg);
+	background-repeat:repeat-y;
+	background-position:0px 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#spanaa1_1 {
+	display:block;
+	height:170px;
+	background-image:url(images/4.jpg);
+	background-repeat:repeat-y;
+	background-position:0px 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#spanaa1_2 {
+	display:block;
+	height:268px;
+	background-image:url(images/4.jpg);
+	background-repeat:repeat-y;
+	background-position:0px 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#spanaa1_3 {
+	display:block;
+	height:225px;
+	background-image:url(images/4.jpg);
+	background-repeat:repeat-y;
+	background-position:0px 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#spanaa1_4 {
+	display:block;
+	height:107px;
+	background-image:url(images/4.jpg);
+	background-repeat:repeat-y;
+	background-position:0px 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#spanaa1_5 {
+	display:block;
+	height:75px;
+	background-image:url(images/4.jpg);
+	background-repeat:repeat-y;
+	background-position:0px 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#spanaa2 {
+	display:block;
+	height:6px;
+	background-image:url(images/5.jpg);
+	background-repeat:repeat-y;
+	background-position:0px 0px;
+}
+#spanaa3 {
+    display:block;
+	height:30px;
+	text-indent:45mm;
+	padding-top:20px;
+	background-image:url(images/6.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+#spanaa4 {
+    display:block;
+	height:6px;
+	background-image:url(images/7.jpg);
+	background-repeat:no-repeat;
+	background-position:0px bottom;
+}
+#spanaa5 {
+    display:block;
+	height:30px;
+	text-indent:45mm;
+	padding-top:29px;
+	background-image:url(images/8.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+#spanaa6 {
+    display:block;
+	height:30px;
+	text-indent:45mm;
+	padding-top:20px;
+	background-image:url(images/9.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+#spanaa7 {
+    display:block;
+	height:30px;
+	text-indent:45mm;
+	padding-top:20px;
+	background-image:url(images/10.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+#content {
+	 float:left;
+	width:732px;
+	margin-top:7px;
+	margin-left:10px;
+}
+#content1_1 {
+	float:left;
+	width:327px;
+	height:246px;
+	background-image:url(images/11.jpg);
+	background-repeat:no-repeat;
+	margin-right:5px;
+	padding:15px;
+}
+#content1_2 {
+	float:left;
+	width:368px;
+	height:276px;
+	background-image:url(images/12.jpg);	
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+#content1_2 span {
+	float:left;
+	height:23px;
+	padding-top:5px;
+	text-indent:2mm;
+	font-size:13px;
+	font-weight:bold;
+	color:#ffffff;
+}
+#content1_2 div {
+	float:left;
+	width:366px;
+	height:241px;
+	background-image: url(images/14.jpg);
+	background-repeat: repeat-x;
+	background-position: 0px 0px;
+	border: 1px solid #D1D1D2;
+	margin-top:5px;
+}
+#content2_2 {
+	float:left;
+	width:360px;
+	height:200px;
+	margin-right:5px;
+	background-image:url(images/15.jpg);	
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+
+#content2_2 span {
+	float:left;
+	height:23px;
+	padding-top:5px;
+	text-indent:2mm;
+	font-size:13px;
+	font-weight:bold;
+	color:#ffffff;
+}
+#content2_2 div {
+	float:left;
+	width:360px;
+	height:184px;
+	background-color:#EFEFEF;
+	border: 1px solid #D1D1D2;
+}
+
+#content1 {
+	 float:left;
+	width:730px;
+	margin-top:3px;
+	margin-right:5px;
+	margin-left:8px;
+	background-image:url(images/xxhdt_1.jpg);
+	background-repeat:repeat-y;
+}
+#content1 span {
+	height:23px;
+	padding-top:13px;
+	font-size:12px;
+	line-height:23px;
+}
+#content1 div {
+	 height:500px;
+}
+#content2 {
+	 float:left;
+	width:730px;
+	margin-top:3px;
+	margin-right:5px;
+	margin-left:8px;
+	background-image:url(images/xxhdt_1.jpg);
+	background-repeat:repeat-y;
+}
+#content2 span {
+	display:block;
+	height:23px;
+	width:730px;
+	padding-top:5px;
+	background-image:url(images/3.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	text-indent:5mm;
+	font-size:13px;
+	font-weight:bold;
+	color:#ffffff;
+}
+#content2 div {
+	height:500px;
+	margin-top:7px;
+	margin-bottom:7px;
+	border:1px solid #d4d4d4;
+	background-color:#efefef;
+}
+#content3 {
+	 float:left;
+	width:732px;
+	margin-top:17px;
+	margin-left:10px;
+}
+#content5{
+	 float:left;
+	width:732px;
+	margin-top:17px;
+	margin-bottom:20px;
+	margin-left:10px;
+}
+#footer {
+	height:67px;
+	background-image:url(images/rightbj2.jpg);
+}
+#cs1{
+	float:left;
+	height:55px;
+	width:5px;
+	background-image:url(images/footbj_1.jpg);
+	margin-top:12px;
+	margin-left:5px;
+}
+#cs2{
+	float:left;
+	height:55px;
+	width:968px;
+	background-image:url(images/footbj_2.jpg);
+	margin-top:12px;
+}
+#cs3{
+	float:left;
+	height:55px;
+	width:5px;
+	background-image:url(images/footbj_3.jpg);
+	margin-top:12px;
+	margin-right:5px;
+}
+#footer2 {
+	text-align:center;
+	font-size:12px;
+	height:35px;
+	background-image:url(images/footbj1.jpg);
+	color:#00416f;
+	text-decoration:none;
+	line-height:20px;
+	padding-top:30px;
+	font-weight:bold;
+}
+#footer3 {
+	text-align:center;
+	font-size:12px;
+	height:60px;
+	background-image:url(images/footbj.jpg);
+	color:#ffffff;
+	text-decoration:none;
+	line-height:20px;
+	padding-top:10px;
+}
+.clearfloat {
+	 clear:both;
+	height:0;
+	font-size:1px;
+	line-height:0px;
+}

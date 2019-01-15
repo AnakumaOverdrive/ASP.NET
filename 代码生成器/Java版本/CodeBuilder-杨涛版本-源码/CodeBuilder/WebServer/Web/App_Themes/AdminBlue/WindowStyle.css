@@ -1,0 +1,15 @@
+﻿.windowStyle
+{ margin-top:5px;
+    width: 100%; table-layout:fixed;
+}
+.windowStyle .topLeft {width: 3px; height: 25px; background-image: url('images/windowStyle_01.gif');}
+.windowStyle .topCenter{ height:25px;width:auto; background-image: url('images/windowStyle_02.gif');font-weight:bold;color:#114b6a;vertical-align:middle;font-size:12px;}
+.windowStyle .topRight{width: 3px; height: 25px; background-image: url('images/windowStyle_03.gif');}
+.windowStyle .middleLeft{width: 1px; height: auto; background-image: url('images/windowStyle_04.gif');}
+.windowStyle .middleCenter{height: auto;width:auto; background-color: #FFFFFF; text-align: center;vertical-align:top;}
+.windowStyle .middleRight{width: 1px; height: auto; background-image: url('images/windowStyle_05.gif');background-position:right;}
+.windowStyle .bottomLeft{width: 3px; height: 3px; background-image: url('images/windowStyle_06.gif');}
+.windowStyle .bottomCenter{ height: 3px; width:auto;background-image: url('images/windowStyle_07.gif');}
+.windowStyle .bottomRight{width: 3px; height: 3px; background-image: url('images/windowStyle_08.gif');}
+/*.windowStyle .OperateArea{ height: 60px; background-color: #DFE8F6; text-align: center;}
+*/

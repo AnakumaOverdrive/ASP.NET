@@ -1,0 +1,27 @@
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\obj\Debug\MySqlData.csprojResolveAssemblyReference.cache
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\bin\Debug\MySqlData.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\bin\Debug\MySqlData.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\bin\Debug\Esint.CodeBuilder.Model.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\bin\Debug\InterFace.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\bin\Debug\InterFace.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\bin\Debug\Esint.CodeBuilder.Model.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\obj\Debug\MySqlData.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\MySqlData\obj\Debug\MySqlData.pdb
+E:\文件备份\CodeBuilder\MySqlData\bin\Debug\MySqlData.dll
+E:\文件备份\CodeBuilder\MySqlData\bin\Debug\MySqlData.pdb
+E:\文件备份\CodeBuilder\MySqlData\bin\Debug\Esint.CodeBuilder.Model.dll
+E:\文件备份\CodeBuilder\MySqlData\bin\Debug\InterFace.dll
+E:\文件备份\CodeBuilder\MySqlData\bin\Debug\InterFace.pdb
+E:\文件备份\CodeBuilder\MySqlData\bin\Debug\Esint.CodeBuilder.Model.pdb
+E:\文件备份\CodeBuilder\MySqlData\obj\Debug\MySqlData.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\MySqlData\obj\Debug\MySqlData.dll
+E:\文件备份\CodeBuilder\MySqlData\obj\Debug\MySqlData.pdb
+D:\company\project\CodeBuilder\MySqlData\bin\Debug\MySqlData.dll
+D:\company\project\CodeBuilder\MySqlData\bin\Debug\MySqlData.pdb
+D:\company\project\CodeBuilder\MySqlData\bin\Debug\Esint.CodeBuilder.Model.dll
+D:\company\project\CodeBuilder\MySqlData\bin\Debug\InterFace.dll
+D:\company\project\CodeBuilder\MySqlData\bin\Debug\InterFace.pdb
+D:\company\project\CodeBuilder\MySqlData\bin\Debug\Esint.CodeBuilder.Model.pdb
+D:\company\project\CodeBuilder\MySqlData\obj\Debug\MySqlData.csprojResolveAssemblyReference.cache
+D:\company\project\CodeBuilder\MySqlData\obj\Debug\MySqlData.dll
+D:\company\project\CodeBuilder\MySqlData\obj\Debug\MySqlData.pdb

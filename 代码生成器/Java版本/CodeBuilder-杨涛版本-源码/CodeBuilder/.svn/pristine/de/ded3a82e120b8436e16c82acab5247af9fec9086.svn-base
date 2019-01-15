@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <DataBaseType>MySql</DataBaseType>
+  <ConnectString>Data Source=127.0.0.1;Database=crm;User Id=root;Password=password01!;Allow Zero DateTime=true;</ConnectString>
+  <TableHeaderString>T_</TableHeaderString>
+  <DBUserID>root</DBUserID>
+  <DataBaseName>crm</DataBaseName>
+  <CodeSelectSQL>select  FLAG, MEANING as meaning from T_Sys_CODEMAP</CodeSelectSQL>
+  <CodeSQL>select meaning from T_Sys_code where flag='{0}' and code={1}</CodeSQL>
+  <AppName>security</AppName>
+  <OperName>Esint</OperName>
+  <IsOpenFolder>1</IsOpenFolder>
+  <RegCode>A742FC4E98420A79744EF184CBE99F19</RegCode>
+  <WebServer2>http://localhost/webservice/</WebServer2>
+  <WebServer>
+  </WebServer>
+  <page>page</page>
+  <pageSize>rows</pageSize>
+  <sort>sort</sort>
+  <order>order</order>
+</configuration>

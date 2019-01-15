@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <ModelItem Key="1" Path="Template\TemplateModel.dll" ClassName="Esint.Template.Model.JAVA_Model" Title="POJO" FileName="{0}" FilePath="D:\Code\POJO\" NameSpace="com.{0}.pojo;" CodeType="JAVA" IsMBuilder="True"/>
+  <ModelItem Key="2" Path="Template\TemplateModel.dll" ClassName="Esint.Template.Model.Mapper_Model" Title="Mapper" FileName="{0}" FilePath="D:\Code\Mapper_XML\" NameSpace="com.{0}" CodeType="JAVA" IsMBuilder="True"/>
+  <ModelItem Key="11" Path="Template\TemplateBLL.dll" ClassName="Esint.Template.BLL.BLL_JAVA11" Title="Service" FileName="{0}Service" FilePath="D:\Code\Service\" NameSpace="CMIT.{0}.BLL" CodeType="C#" IsMBuilder="True"/>
+  <ModelItem Key="13" Path="Template\TemplateBLL.dll" ClassName="Esint.Template.BLL.BLL_JAVA33"	Title="ServiceImpl" FileName="{0}ServiceImpl" FilePath="D:\Code\ServiceImpl\" NameSpace="CMIT.{0}.BLL" CodeType="C#" IsMBuilder="True"/>
+  <ModelItem Key="12" Path="Template\TemplateBLL.dll" ClassName="Esint.Template.BLL.BLL_JAVA22" Title="Controller" FileName="{0}Controller" FilePath="D:\Code\Controller\" NameSpace="CMIT.{0}.BLL" CodeType="C#" IsMBuilder="True"/>
+  <ModelItem Key="14" Path="Template\TemplateWeb.dll" ClassName="Esint.Template.TemplateWeb.WebListJAVA" Title="前台列表页面" FileName="UC_{0}List" FilePath="D:\Code\Web\" NameSpace="CMIT.{0}.Web" CodeType="HTML" IsMBuilder="False" IsWeb="True"/>
+  <ModelItem Key="5" Path="Template\TemplateWeb.dll" ClassName="Esint.Template.TemplateWeb.Web" Title="前台添加修改页面" FileName="UC_{0}Info" FilePath="D:\Code\Web\" NameSpace="CMIT.{0}.Web"	CodeType="HTML" IsMBuilder="False" IsWeb="True"/>
+</configuration>

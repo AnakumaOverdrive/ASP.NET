@@ -1,0 +1,101 @@
+C:\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\TemplateWeb.dll
+C:\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\TemplateWeb.pdb
+C:\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\Template.dll
+C:\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\Template.pdb
+C:\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+C:\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\Template.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\Template.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\bin\Debug\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\bin\Debug\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\bin\Debug\Template.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\bin\Debug\Template.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\obj\Debug\Esint.CodeBuilder.Template.Web.resources
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateWeb\obj\Debug\Esint.CodeBuilder.Template.WebList.resources
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\CodeBuilder\bin\Debug\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\CodeBuilder\bin\Debug\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\Esint.CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\Esint.CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\ResGen.read.1.tlog
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\ResGen.write.1.tlog
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csprojResolveAssemblyReference.cache
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csprojResolveAssemblyReference.cache
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebListJAVA.resources
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+E:\文件备份\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+E:\文件备份\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+E:\文件备份\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebListJAVA.resources
+E:\文件备份\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+E:\文件备份\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+E:\文件备份\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.dll
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateWeb.pdb
+D:\company\project\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csprojResolveAssemblyReference.cache
+D:\company\project\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.Web.resources
+D:\company\project\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebList.resources
+D:\company\project\CodeBuilder\Template\TemplateWeb\obj\Debug\Esint.Template.TemplateWeb.WebListJAVA.resources
+D:\company\project\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.csproj.GenerateResource.Cache
+D:\company\project\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.dll
+D:\company\project\CodeBuilder\Template\TemplateWeb\obj\Debug\TemplateWeb.pdb

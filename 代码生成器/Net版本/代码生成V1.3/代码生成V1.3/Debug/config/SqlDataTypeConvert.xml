@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<configuration>
+  <DataType CSharpType ="int?" 		DbType="BigInt" 	    	Convert="Convert.ToInt32"		DataType="BigInt"		AutoWidth="true"/>
+  <DataType CSharpType ="bool?" 	DbType="Bit" 		    	Convert="Convert.ToBoolean"		DataType="Bit"			AutoWidth="true"/>
+  <DataType CSharpType ="byte[]" 	DbType="Binary"			Convert="(byte[])"			DataType="Binary"		AutoWidth="true"/>
+  <DataType CSharpType ="string"	DbType="Char"		    	Convert="Convert.ToString"		DataType="Char"			AutoWidth="false"/>
+  <DataType CSharpType ="DateTime?"	DbType="DateTime"	    	Convert="Convert.ToDateTime"		DataType="DateTime"		AutoWidth="true"/>
+  <DataType CSharpType ="double?"	DbType="Decimal"	    	Convert="Convert.ToDouble"		DataType="Decimal"		AutoWidth="true"/>
+  <DataType CSharpType ="double?"	DbType="Float"		    	Convert="Convert.ToDouble"		DataType="Float"		AutoWidth="true"/>
+  <DataType CSharpType ="double?"  	DbType="Decimal"	    	Convert="Convert.ToDouble"		DataType="Numeric"		AutoWidth="true"/>
+  <DataType CSharpType ="byte[]"	DbType="Image"		    	Convert="(byte[])"			DataType="Image"		AutoWidth="true"/>
+  <DataType CSharpType ="int?"		DbType="Int"		    	Convert="Convert.ToInt32"		DataType="Int"			AutoWidth="true"/>
+  <DataType CSharpType ="Decimal?"	DbType="Money"		    	Convert="Convert.ToDecimal"		DataType="Money"		AutoWidth="true"/>
+  <DataType CSharpType ="string"	DbType="NChar"		    	Convert="Convert.ToString"		DataType="NChar"		AutoWidth="false"/>
+  <DataType CSharpType ="string"	DbType="NText"		    	Convert="Convert.ToString"		DataType="NText"		AutoWidth="true"/>
+  <DataType CSharpType ="string"	DbType="NVarChar"	    	Convert="Convert.ToString"		DataType="NVarChar"		AutoWidth="false"/>
+  <DataType CSharpType ="Single?"	DbType="Real"			Convert="Convert.ToSingle"		DataType="Real"			AutoWidth="true"/>
+  <DataType CSharpType ="Guid"		DbType="UniqueIdentifier"	Convert="(Guid)"		DataType="UniqueIdentifier"	AutoWidth="true"/>
+  <DataType CSharpType ="DateTime?"	DbType="SmallDateTime"		Convert="Convert.ToDateTime"		DataType="SmallDateTime"	AutoWidth="true"/>
+  <DataType CSharpType ="int?"		DbType="SmallInt"		Convert="Convert.ToInt16"		DataType="SmallInt"		AutoWidth="true"/>
+  <DataType CSharpType ="Decimal?"	DbType="SmallMoney"		Convert="Convert.ToDecimal"		DataType="SmallMoney"	    	AutoWidth="true"/>
+  <DataType CSharpType ="string"	DbType="Text" 			Convert="Convert.ToString"		DataType="Text" 		AutoWidth="true"/>
+  <DataType CSharpType ="byte[]" 	DbType="Timestamp" 		Convert="(byte[])"			DataType="Timestamp" 	    	AutoWidth="true"/>
+  <DataType CSharpType ="byte" 		DbType="TinyInt" 		Convert="(byte)"			DataType="TinyInt" 		AutoWidth="true"/>
+  <DataType CSharpType ="byte[]" 	DbType="VarBinary" 		Convert="(byte[])"			DataType="VarBinary" 	    	AutoWidth="true"/>
+  <DataType CSharpType ="string"	DbType="VarChar" 	    	Convert="Convert.ToString"		DataType="VarChar" 		AutoWidth="false"/>
+  <DataType CSharpType ="object" 	DbType="Variant" 	    	Convert="Convert.ToDateTime"		DataType="Variant" 		AutoWidth="false"/>
+  <DataType CSharpType ="DateTime?"	DbType="Date" 		    	Convert="Convert.ToDateTime"		DataType="Date" 		AutoWidth="true"/>
+  <DataType CSharpType ="DateTime?" 	DbType="Time" 		    	Convert="Convert.ToDateTime"		DataType="Time" 		AutoWidth="true"/>
+  <DataType CSharpType ="DateTime?" 	DbType="DateTime2" 		Convert="Convert.ToDateTime"		DataType="DateTime2" 	    	AutoWidth="true"/>
+  <DataType CSharpType ="DateTime?"	DbType="DateTimeOffset" 	Convert="Convert.ToDateTime"		DataType="DateTimeOffset"	AutoWidth="true"/>
+  <DataType CSharpType ="string"	DbType="Xml"			Convert="Convert.ToString"		DataType="XML"			AutoWidth="false"/>
+</configuration>

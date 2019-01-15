@@ -1,0 +1,146 @@
+﻿body
+{
+    font-size: 12px;
+    margin: 0px;
+    padding: 5px;
+}
+
+.HeadSubjectCss
+{
+    background-color: #4d87bd;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    color: White;
+    font-weight: bold;
+}
+.HeadCss
+{
+    background-color: #4d87bd;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: White;
+    font-weight: bold;
+    width: 15%;
+}
+
+.HeadSubjectCss
+{
+    background-color: #4d87bd;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+    color: White;
+    font-weight: bold;
+    text-align: center;
+}
+.SubjectCss
+{
+    text-align: left;
+}
+.RowCss
+{
+    height: 20px;
+    line-height: 20px;
+    width: 15%;
+    text-align: center;
+    font-size: 11px;
+}
+.Cssbtn_Add
+{
+    background-image: url('../images/BSS_btnbg.gif');
+    width: 99px;
+    border: 0px;
+    height: 31px;
+    padding-left: 10px;
+    margin: 5px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    cursor: hand;
+    font-weight: bold;
+    color: #07609b;
+}
+
+.ReplyTitleCss
+{
+    background-image: url('../images/BSS_ReplyTitleBG.gif');
+    color: White;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 30px;
+}
+
+
+.ReplyLeftTopCss
+{
+    width: 200px;
+    border-bottom-style: solid;
+    height: 30px;
+    line-height: 30px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-color: #b8cfdb;
+    border-bottom-color: #b8cfdb;
+    font-weight:bold;
+    color:Blue;
+    background-color: #fafdff;
+    text-align:center;
+}
+
+
+.ReplyRightTopCss
+{
+    border-bottom-style: solid;
+    height: 30px;
+    line-height: 30px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-color: #b8cfdb;
+    border-bottom-color: #b8cfdb;
+    padding-left: 20px;
+    background-color: #fafdff;
+}
+
+
+.ReplyLeftCss
+{
+    width: 200px;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-color: #b8cfdb;
+    border-bottom-color: #b8cfdb;
+    height: 150px;
+    vertical-align: top;
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+.ReplyRightCss
+{
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-color: #b8cfdb;
+    border-bottom-color: #b8cfdb;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+}
+
+.ContentTitle
+{
+    padding: 5px;
+    text-align: left;
+    padding-left: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-weight: bold;
+}

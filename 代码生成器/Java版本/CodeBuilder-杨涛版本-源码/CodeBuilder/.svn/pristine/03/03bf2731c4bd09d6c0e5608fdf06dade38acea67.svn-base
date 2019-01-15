@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Esint.CodeBuilder.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <system.serviceModel>
+        <bindings />
+        <client />
+    </system.serviceModel>
+    <applicationSettings>
+        <Esint.CodeBuilder.Properties.Settings>
+            <setting name="Esint_CodeBuilder_WebSite_WS_Category" serializeAs="String">
+                <value>http://localhost/WebService/Client/WS_Category.asmx</value>
+            </setting>
+        </Esint.CodeBuilder.Properties.Settings>
+    </applicationSettings>
+</configuration>

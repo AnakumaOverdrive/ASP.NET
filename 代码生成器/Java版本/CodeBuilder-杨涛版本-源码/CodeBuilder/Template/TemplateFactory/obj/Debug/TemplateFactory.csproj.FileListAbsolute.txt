@@ -1,0 +1,57 @@
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\bin\Debug\TemplateFactory.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\bin\Debug\TemplateFactory.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\bin\Debug\TemplateFactory.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\bin\Debug\TemplateFactory.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\bin\Debug\Template.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\bin\Debug\Template.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\bin\Debug\TemplateCommon.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\bin\Debug\TemplateCommon.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\Esint.CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\Esint.CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.csprojResolveAssemblyReference.cache
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+E:\文件备份\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+E:\文件备份\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.dll
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateFactory.pdb
+D:\company\project\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.csprojResolveAssemblyReference.cache
+D:\company\project\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.dll
+D:\company\project\CodeBuilder\Template\TemplateFactory\obj\Debug\TemplateFactory.pdb

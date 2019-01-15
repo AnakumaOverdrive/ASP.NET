@@ -1,0 +1,9 @@
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\bin\Debug\SqlDataAccess.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\bin\Debug\SqlDataAccess.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\bin\Debug\Esint.CodeBuilder.Model.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\bin\Debug\Esint.CodeBuilder.Model.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\obj\Debug\SqlDataAccess.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\SqlDataAccess\obj\Debug\SqlDataAccess.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- CSharpType:POJO中用;DbType:映射文件中用;DataType:数据库支持类型 -->
+<configuration>
+  <DataType CSharpType="Integer" DbType="INTEGER" DataType="INT" Convert="Convert.ToString" AutoWidth="false"/>
+  <DataType CSharpType="Integer" DbType="INTEGER" DataType="INTEGER" Convert="Convert.ToDateTime" AutoWidth="true"/>
+  <DataType CSharpType="Float" DbType="REAL" DataType="FLOAT" Convert="Convert.ToDouble" AutoWidth="true"/>
+  <DataType CSharpType="Double" DbType="DOUBLE" DataType="DOUBLE" Convert="Convert.ToDouble" AutoWidth="true"/>
+  <DataType CSharpType="Double" DbType="DECIMAL" DataType="DECIMAL" Convert="(byte[])" AutoWidth="true"/>
+  <DataType CSharpType="Date" DbType="DATE" DataType="DATE" Convert="Convert.ToInt32" AutoWidth="true"/>
+  <DataType CSharpType="Date" DbType="TIME" DataType="TIME" Convert="Convert.ToDecimal" AutoWidth="true"/>
+  <DataType CSharpType="Date" DbType="DATE" DataType="YEAR" Convert="Convert.ToDecimal" AutoWidth="true"/>
+  <DataType CSharpType="Timestamp" DbType="TIMESTAMP" DataType="DATETIME" Convert="Convert.ToString" AutoWidth="true"/>
+  <DataType CSharpType="Timestamp" DbType="TIMESTAMP" DataType="TIMESTAMP" Convert="Convert.ToString" AutoWidth="true"/>
+  <DataType CSharpType="String" DbType="CHAR" DataType="CHAR" Convert="Convert.ToSingle" AutoWidth="true"/>
+  <DataType CSharpType="String" DbType="VARCHAR" DataType="VARCHAR" Convert="(Guid)" AutoWidth="true"/>
+  <DataType CSharpType="String" DbType="VARCHAR" DataType="TEXT" Convert="Convert.ToString" AutoWidth="true"/>
+  <DataType CSharpType="String" DbType="VARCHAR" DataType="LONGTEXT" Convert="Convert.ToString" AutoWidth="true"/>
+  <DataType CSharpType="byte[]" DbType="VARBINARY" DataType="BLOB" Convert="Convert.ToDecimal" AutoWidth="true"/>
+</configuration>

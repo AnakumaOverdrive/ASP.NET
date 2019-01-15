@@ -1,0 +1,65 @@
+C:\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\TemplateIDAL.dll
+C:\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\TemplateIDAL.pdb
+C:\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\InterFace.dll
+C:\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\Template.dll
+C:\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\Template.pdb
+C:\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+C:\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\TemplateIDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\TemplateIDAL.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\bin\Debug\TemplateIDAL.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\bin\Debug\TemplateIDAL.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\bin\Debug\Template.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\bin\Debug\Template.pdb
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+C:\Inetpub\wwwroot\Esint.Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\TemplateCommon.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\bin\Debug\TemplateCommon.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\Esint.CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\Esint.CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Esint.CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+D:\wwwroot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+D:\201212WWWRoot\Esint.CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+F:\_____当前项目\代码生成\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.csprojResolveAssemblyReference.cache
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+E:\文件备份\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+E:\文件备份\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.dll
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Template\TemplateIDAL.pdb
+D:\company\project\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.csprojResolveAssemblyReference.cache
+D:\company\project\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.dll
+D:\company\project\CodeBuilder\Template\TemplateIDAL\obj\Debug\TemplateIDAL.pdb

@@ -1,0 +1,44 @@
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Model\bin\Debug\Esint.CodeBuilder.Model.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Model\bin\Debug\Esint.CodeBuilder.Model.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Model\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Model\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+D:\wwwroot\Esint.CodeBuilder\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Esint.CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+D:\wwwroot\Esint.CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\201212WWWRoot\Esint.CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+D:\201212WWWRoot\Esint.CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+D:\研发类项目\代码生成器\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb
+D:\研发类项目\代码生成器\CodeBuilder\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+F:\_____当前项目\代码生成\CodeBuilder\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+F:\_____当前项目\代码生成\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+E:\文件备份\CodeBuilder\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+E:\文件备份\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.dll
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\Esint.CodeBuilder.Model.pdb
+D:\company\project\CodeBuilder\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\company\project\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.dll
+D:\company\project\CodeBuilder\Model\obj\Debug\Esint.CodeBuilder.Model.pdb

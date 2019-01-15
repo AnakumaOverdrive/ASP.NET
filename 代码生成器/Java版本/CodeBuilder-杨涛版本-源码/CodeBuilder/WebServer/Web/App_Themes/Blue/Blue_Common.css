@@ -1,0 +1,33 @@
+﻿ 
+
+div{ padding :0px;margin:0 auto;}
+span{padding:0px;margin:0px;}
+body,p,b,dl,dd,table,td,th,input,img,form,ul,li{margin:0;padding:0;}:focus{outline:0;}
+img,iframe{border:none;}
+ol, ul, li{
+    list-style: none;
+    
+    
+ }
+ li{position:relative;}
+img,input,label{vertical-align:middle;}
+table{border-collapse:collapse;border-spacing:0;}
+a:link,a:visited{text-decoration:none;color:#666;font-size:12px;}
+a:hover{text-decoration:underline;color:#f00;font-size:12px;}
+
+.info_date{font-size:9pt;color:#888;margin-left:4px;position:absolute;right:3px;}
+ 
+  .pages{height:30px;text-align:right;}
+ .pages span{border:solid 1px #91abbb;display:inline-block;margin:3px;height:16px;line-height:16px;text-align:center;font-size:12px;background-color:#f0f6f9;color:#1f3a87;}
+ .pages .pageNum{width:16px;}
+ .pages .currentPageNum{width:16px;background-color:#fff7eb;border-color:#ff5c03;color:#ff5c03;}
+ .pages .NextPage,.pages .PrevPage{width:50px}
+ 
+ .moreLink {width:80px;height:30px;float:right;line-height:30px;}
+ .moreLink img{margin:8px;}
+ .dv_file .dv_file_Line{height:4px;padding:5px 15px 5px 15px;background-image:url('images/line_03.gif');background-repeat:repeat-x;}
+ .dv_file .title{font-size:14px;color:#656565;font-weight:bold;}
+ .dv_file .dv_fileSize {width:150px;padding-left:30px;font-size:12px;color:#888;}
+ .dv_file img,.dv_file li {margin:5px;}
+ .dv_file a {font-size:14px;}
+ 

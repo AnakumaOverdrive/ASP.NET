@@ -1,0 +1,43 @@
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.Common.Data.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.Common.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.CodeSite.SqlDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.CodeSite.SqlDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.CodeSite.Model.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\bin\Debug\Esint.CodeSite.Model.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.dll
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\SqlDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.dll
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.dll
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.dll
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\SqlDAL\obj\Debug\SqlDAL.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.dll
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.pdb
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\SqlDAL\obj\Debug\SqlDAL.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.dll
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\SqlDAL\obj\Debug\SqlDAL.csprojResolveAssemblyReference.cache
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.pdb
+E:\文件备份\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.dll
+E:\文件备份\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.pdb
+E:\文件备份\CodeBuilder\WebServer\SqlDAL\obj\Debug\SqlDAL.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.dll
+E:\文件备份\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.pdb
+D:\company\project\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.dll
+D:\company\project\CodeBuilder\WebServer\Web\bin\Esint.CodeSite.SqlDAL.pdb
+D:\company\project\CodeBuilder\WebServer\SqlDAL\obj\Debug\SqlDAL.csprojResolveAssemblyReference.cache
+D:\company\project\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.dll
+D:\company\project\CodeBuilder\WebServer\SqlDAL\obj\Debug\Esint.CodeSite.SqlDAL.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<configuration>
+  <DataType CSharpType ="double?"	DbType="Double" 	Convert="Convert.ToDouble"	DataType="NUMBER" 	AutoWidth="true"/>
+  <DataType CSharpType ="int?"	DbType="Integer" 	Convert="Convert.ToInt32"	DataType="INTEGER" 	AutoWidth="true"/>
+  <DataType CSharpType ="long" 	DbType="Long" 		Convert="Convert.ToInt32"	DataType="LONG"		AutoWidth="true"/>
+  <DataType CSharpType ="string" 	DbType="Char" 		Convert="Convert.ToString"	DataType="CHAR" 	AutoWidth="false"/>
+  <DataType CSharpType ="string" 	DbType="Varchar2"	Convert="Convert.ToString"	DataType="VARCHAR2" 	AutoWidth="false"/>
+  <DataType CSharpType ="string" 	DbType="Varchar"	Convert="Convert.ToString"	DataType="VARCHAR" 	AutoWidth="false"/>   
+  <DataType CSharpType ="byte[]"	DbType="Blob"		Convert="Convert.ToByte"	DataType="blob" 	AutoWidth="true"/> 
+  <DataType CSharpType ="string"	DbType="Clob"		Convert="Convert.ToString"	DataType="Clob" 	AutoWidth="true"/>
+  <DataType CSharpType ="DateTime?"	DbType="Date"		Convert="Convert.ToDateTime"	DataType="Date" 	AutoWidth="true"/>
+  <DataType CSharpType="Guid"       DbType="Varchar2"           Convert="(Guid)"                DataType="GUID"	AutoWidth="false"/>
+  <DataType CSharpType ="string" 	DbType="NVarchar2"	Convert="Convert.ToString"	DataType="NVARCHAR2" 	AutoWidth="false"/>
+  <DataType CSharpType ="DateTime?" 	DbType="TimeStamp"	Convert="Convert.ToDateTime"	DataType="TIMESTAMP(6)" 	AutoWidth="true"/>
+
+</configuration>

@@ -1,0 +1,68 @@
+﻿body
+{
+}
+.tableCss
+{
+    border-top-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    border-top-color: #003366;
+    border-left-color: #003366;
+}
+.tableHeader
+{
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    background-color: #eeecd8;
+    width: 16%;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.tableCell
+{
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-bottom-color: #000000;
+    border-right-color: #000000;
+    width: 16%;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    padding: 0px;
+    margin: 0px;
+}
+.tableCellUp
+{
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-bottom-color: #000000;
+    border-right-color: #000000;
+    width: 10%;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+.tableBottom
+{
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-bottom-color: #000000;
+    border-right-color: #000000;
+    text-align: right;
+    padding-right: 10px;
+    height: 40px;
+    line-height: 40px;
+}
+

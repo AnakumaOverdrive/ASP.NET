@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s1="http://microsoft.com/wsdl/types/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:import namespace="http://microsoft.com/wsdl/types/" />
+      <s:element name="GetCategoryList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="categoryType" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="userID" type="s1:guid" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCategoryListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCategoryListResult" type="tns:ArrayOfInfo_CategoryInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfInfo_CategoryInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Info_CategoryInfo" nillable="true" type="tns:Info_CategoryInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Info_CategoryInfo">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseModel">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="CategoryID" type="s1:guid" />
+              <s:element minOccurs="0" maxOccurs="1" name="CategoryName" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="CategoryType" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="ParentCategory" type="s1:guid" />
+              <s:element minOccurs="1" maxOccurs="1" name="UserID" type="s1:guid" />
+              <s:element minOccurs="1" maxOccurs="1" name="OrderNum" nillable="true" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="BaseModel">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:RootModel" />
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="RootModel">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="UpdateNullFields" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/wsdl/types/">
+      <s:simpleType name="guid">
+        <s:restriction base="s:string">
+          <s:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}" />
+        </s:restriction>
+      </s:simpleType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetCategoryListSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCategoryList" />
+  </wsdl:message>
+  <wsdl:message name="GetCategoryListSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCategoryListResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WS_CategorySoap">
+    <wsdl:operation name="GetCategoryList">
+      <wsdl:input message="tns:GetCategoryListSoapIn" />
+      <wsdl:output message="tns:GetCategoryListSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WS_CategorySoap" type="tns:WS_CategorySoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetCategoryList">
+      <soap:operation soapAction="http://tempuri.org/GetCategoryList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WS_CategorySoap12" type="tns:WS_CategorySoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetCategoryList">
+      <soap12:operation soapAction="http://tempuri.org/GetCategoryList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WS_Category">
+    <wsdl:port name="WS_CategorySoap" binding="tns:WS_CategorySoap">
+      <soap:address location="http://localhost/WebService/Client/WS_Category.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WS_CategorySoap12" binding="tns:WS_CategorySoap12">
+      <soap12:address location="http://localhost/WebService/Client/WS_Category.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

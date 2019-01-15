@@ -1,0 +1,47 @@
+C:\CodeBuilder\CodeBuilderForOracle\InterFace\bin\Debug\InterFace.dll
+C:\CodeBuilder\CodeBuilderForOracle\InterFace\bin\Debug\InterFace.pdb
+C:\CodeBuilder\CodeBuilderForOracle\InterFace\obj\Debug\ResolveAssemblyReference.cache
+C:\CodeBuilder\CodeBuilderForOracle\InterFace\obj\Debug\InterFace.dll
+C:\CodeBuilder\CodeBuilderForOracle\InterFace\obj\Debug\InterFace.pdb
+C:\Esint.CodeBuilder\InterFace\bin\Debug\InterFace.dll
+C:\Esint.CodeBuilder\InterFace\bin\Debug\InterFace.pdb
+C:\Esint.CodeBuilder\InterFace\obj\Debug\ResolveAssemblyReference.cache
+C:\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.dll
+C:\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\InterFace\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\InterFace\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\InterFace\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+D:\wwwroot\Esint.CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+D:\wwwroot\Esint.CodeBuilder\InterFace\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.dll
+D:\wwwroot\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+D:\201212WWWRoot\Esint.CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\InterFace\obj\Debug\ResolveAssemblyReference.cache
+D:\201212WWWRoot\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.dll
+D:\201212WWWRoot\Esint.CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+D:\研发类项目\代码生成器\CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+D:\研发类项目\代码生成器\CodeBuilder\InterFace\obj\Debug\InterFace.dll
+D:\研发类项目\代码生成器\CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+F:\_____当前项目\代码生成\CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+F:\_____当前项目\代码生成\CodeBuilder\InterFace\obj\Debug\InterFace.dll
+F:\_____当前项目\代码生成\CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\InterFace\obj\Debug\InterFace.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+E:\文件备份\CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+E:\文件备份\CodeBuilder\InterFace\obj\Debug\InterFace.dll
+E:\文件备份\CodeBuilder\InterFace\obj\Debug\InterFace.pdb
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\InterFace.dll
+D:\company\project\CodeBuilder\CodeBuilder\bin\Debug\InterFace.pdb
+D:\company\project\CodeBuilder\InterFace\obj\Debug\InterFace.dll
+D:\company\project\CodeBuilder\InterFace\obj\Debug\InterFace.pdb

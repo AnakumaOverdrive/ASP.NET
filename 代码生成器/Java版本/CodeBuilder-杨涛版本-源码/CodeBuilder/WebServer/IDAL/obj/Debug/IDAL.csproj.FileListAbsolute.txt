@@ -1,0 +1,56 @@
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.Common.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.pdb
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.dll
+C:\Inetpub\wwwroot\Esint.CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.dll
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.Common.dll
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.pdb
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.dll
+D:\201212WWWRoot\Esint.CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.dll
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.Common.dll
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.pdb
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.dll
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.pdb
+D:\研发类项目\代码生成器\CodeBuilder\WebServer\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.dll
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.Common.dll
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.pdb
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.dll
+F:\_____当前项目\代码生成\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.Common.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.pdb
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.dll
+D:\我的资料库\Documents\Visual Studio 2010\Projects\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.pdb
+E:\文件备份\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+E:\文件备份\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+E:\文件备份\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.dll
+E:\文件备份\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.Common.dll
+E:\文件备份\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.pdb
+E:\文件备份\CodeBuilder\WebServer\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\文件备份\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.dll
+E:\文件备份\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.pdb
+D:\company\project\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.dll
+D:\company\project\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.IDAL.pdb
+D:\company\project\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.dll
+D:\company\project\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.Common.dll
+D:\company\project\CodeBuilder\WebServer\IDAL\bin\Debug\Esint.CodeSite.Model.pdb
+D:\company\project\CodeBuilder\WebServer\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\company\project\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.dll
+D:\company\project\CodeBuilder\WebServer\IDAL\obj\Debug\Esint.CodeSite.IDAL.pdb

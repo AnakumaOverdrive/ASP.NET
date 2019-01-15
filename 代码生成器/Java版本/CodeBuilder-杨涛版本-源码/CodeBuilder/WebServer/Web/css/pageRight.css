@@ -1,0 +1,63 @@
+﻿        .dv_right
+        {
+            float: right;
+            width: 240px;
+            margin: 5px 2px;
+        }
+        .dv_right_out
+        {
+        }
+        .dv_right_out .dv_top
+        {
+            width: 231px;
+            height: 7px;
+            background-image: url(../images/left_out_top.gif);
+            margin: 0 3px;overflow:hidden;
+        }
+        .dv_right_out .dv_middle
+        {
+            width: 209px;
+            padding: 5px 11px;
+            background-image: url(../images/left_out_bg.gif);
+            margin: 0 3px;
+        }
+        .dv_right_out .dv_bottom
+        {
+            width: 231px;
+            height: 5px;
+            background-image: url(../images/left_out_bottom.gif);
+            margin: 0 3px;
+            overflow:hidden;
+        }
+        .dv_right_inner
+        {
+            background: url(../images/left_inner_bg.gif);
+            width: 209px;
+            margin-bottom: 5px;
+        }
+        .dv_right_inner .dv_inner_top
+        {
+            background: url(../images/left_inner_top.gif);
+            width: 209px;
+            background-repeat: no-repeat;
+            background-position: top;
+        }
+        .dv_right_inner .dv_inner_top .title
+        {float:left;width:100%;
+            padding-top: 1px;  
+        }
+        .dv_right_inner .dv_inner_top .body
+        {clear:both;
+        }
+        .dv_right_inner .dv_inner_bottom
+        {
+            background: url(../images/left_inner_bottom.gif);
+            width: 209px;
+            height: 8px;
+            background-position: bottom;
+            background-repeat: no-repeat;
+        }
+         .dv_right .body a:link
+        {
+            font-size: 12px;
+        }

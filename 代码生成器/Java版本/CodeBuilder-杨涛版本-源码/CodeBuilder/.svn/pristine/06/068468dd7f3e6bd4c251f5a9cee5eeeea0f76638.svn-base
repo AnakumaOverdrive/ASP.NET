@@ -1,0 +1,18 @@
+﻿
+body
+{
+    text-align: center;
+    background-color: #dbe9f2;
+   
+}
+.card {width:700px;margin:5px auto;}
+.card .topLeft {width: 7px; height: 9px; background-image: url('../images/app_table_bg_03.gif');}
+.card .topCenter{width: auto; height: 9px; background-image: url('../images/app_table_bg_04.gif');}
+.card .topRight{width: 15px; height: 9px; background-image: url('../images/app_table_bg_05.gif');}
+.card .middleLeft{width: 7px; height: auto; background-image: url('../images/app_table_bg_12.gif');}
+.card .middleCenter{width: auto; height: auto; background-color: #FFFFFF; text-align: center;padding:10px;}
+.card .middleRight{width: 15px; height: auto; background-image: url('../images/app_table_bg_09.gif');}
+.card .bottomLeft{width: 7px; height: 13px; background-image: url('../images/app_table_bg_13.gif');}
+.card .bottomCenter{width: auto; height: 13px; background-image: url('../images/app_table_bg_15.gif');}
+.card .bottomRight{width: 15px; height: 13px; background-image: url('../images/app_table_bg_16.gif');}
+.card .suppose{width: 200px; height: 330px; padding:10px; background-image:url('../images/虚拟企业.jpg'); vertical-align:top;}

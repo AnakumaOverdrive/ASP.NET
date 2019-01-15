@@ -1,0 +1,182 @@
+﻿
+.GridViewCss
+{
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    height: 25px;
+	 
+    font-size: 9pt;
+    width: 100%;
+    border-collapse: collapse;
+    border-color: #83bcd9;margin-top:10px;
+  
+}
+ .GridViewCss th
+{
+    color: #114b6a;height:24px;
+    border-right: groove 1px #83bcd9;font-weight: normal;white-space:nowrap; 
+
+}
+.GridViewCss td
+{
+     border-right: #dddddd 1px groove;padding:0px;
+
+}
+.GridViewCss .HeaderRowCss { 	font-size: 10pt;
+	color: #000;
+	height: 24px;
+	text-align: center;
+	background-image:url('images/gv_head_bg.gif'); }
+ 
+.GridViewCss .RowCss  
+{
+    height: 25px; background-repeat: repeat-x;background-color: #ffffff;color:#000;  background-image:url('images/gv_Row_bg.gif');
+     background-position: bottom;overflow:hidden;
+white-space:nowrap;/* 不换行 */
+overflow:hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+text-overflow:ellipsis;
+       }
+ 
+.GridViewCss .AlterRowCss
+{
+    background-position: bottom;
+    height: 25px;
+    background-image: url('images/gv_AlertRow_bg.gif');
+    color: #000;
+    background-repeat: repeat-x;
+}
+
+ 
+.GridViewCss .SelectRowCss
+{
+    background-position: bottom;
+    height: 25px;
+    background-image: url('images/gv_SelectedRow_bg.gif');
+    color: #000;
+    background-repeat: repeat-x;
+}
+
+
+
+.GridViewCss .GridviewPagerCss  
+{
+    height: 23px;
+    color: #000;
+}
+ 
+.GridViewOperate
+{ width:60px;
+    text-align:center;
+}
+ 
+.GridViewCss .HeaderRowCss a:link,.GridViewCss .HeaderRowCss a:visited{color:#114b6a;text-decoration:none; }
+.GridViewCss .HeaderRowCss a:active, .GridViewCss .HeaderRowCss a:hover
+{
+    color: #ff0000;
+    text-decoration: underline;
+}
+.GridViewCss .FooterCss
+{
+     height:28px;background-color:#FFF; border-color:#d8e6f6; 
+}
+
+.GridViewCss .FooterCss td{border:none;}
+
+
+/*******************
+*分页控件
+********************/
+.pages { color: #666;width:100%;padding:3px 0px 3px 0px;font-size:11px;}
+.pages a, .pages .cpb { text-decoration:none; padding: 0 5px; border: 1px solid #cccccc;background: #ffff;margin:1px 2px 1px 2px; font-size:11px; color:#3366cc;}
+.pages a:hover { background-color: #FFF; color:#fd6d01;border:1px solid #fd6d01; text-decoration:none;  }
+.pages .cpb { font-weight: bold; color: #fff; background: #E61636; border:1px solid #E61636; }
+.pages .currentpage{ background:#ffede1; border:1px solid #fd6d01; color:#fd6d01; padding: 0 5px;margin:1px 2px 1px 2px;}
+
+.tb_query2
+{
+      text-align: left;
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+ }
+.tb_query2 .td_Label{width:10%;
+                     padding:3px 10px 3px 5px;
+    font-size: 12px;background-color:#dfe8f6;white-space:nowrap; 
+
+    text-align: right;
+    border:solid 1px #99bbe8;}
+.tb_query2 .td_Input{width:25%;
+                     font-size: 12px;border:solid 1px #99bbe8;
+    text-align: left;
+    padding:3px 10px 3px 5px;
+    height:28px; }
+     .tb_query2 .td_Button
+ {
+     width:30%;
+    font-size: 12px;border:solid 1px #99bbe8;
+    text-align: center;
+    padding:3px 10px 3px 5px;
+    height:28px; text-align:center;
+     }
+    
+    .tb_query3
+{
+      text-align: left;
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    }
+.tb_query3 .td_Label{width:10%;
+                     padding:3px 10px 3px 5px;
+    font-size: 12px;background-color:#dfe8f6;
+    text-align: right;white-space:nowrap; 
+
+    border:solid 1px #99bbe8;}
+.tb_query3 .td_Input{width:20%;
+                     font-size: 12px;border:solid 1px #99bbe8;
+    text-align: left;
+    padding:3px 10px 3px 5px;
+    height:28px; }
+    .tb_query3 .td_InputW{width:50%;
+                     font-size: 12px;border:solid 1px #99bbe8;
+    text-align: left;
+    padding:3px 10px 3px 5px;
+    height:28px; }
+    
+ .tb_query3 .td_Button
+ {
+     width:15%;
+    font-size: 12px;border:solid 1px #99bbe8;
+    text-align: left;
+    padding:3px 10px 3px 5px;
+    height:28px; 
+     }
+     
+         .tb_query1
+{
+      text-align: left;
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    }
+.tb_query1 .td_Label{width:20%;
+                     padding:3px 10px 3px 5px;
+    font-size: 12px;background-color:#dfe8f6;
+    text-align: right;white-space:nowrap; 
+
+    border:solid 1px #99bbe8;}
+.tb_query1 .td_Input{width:60%;
+                     font-size: 12px;border:solid 1px #99bbe8;
+    text-align: left;
+    padding:3px 10px 3px 5px;
+    height:28px; }
+    
+    
+ .tb_query1 .td_Button
+ {
+     width:20%;
+    font-size: 12px;border:solid 1px #99bbe8;
+    text-align: left;
+    padding:3px 10px 3px 5px;
+    height:28px; 
+     }
